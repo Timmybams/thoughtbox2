@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+
+
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #201313;
+    width: 100%;
+    height: 100%;
+}
+
+nav {
+    display: flex;
+
+}
+.div {
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 50px;
+    font-weight: 400;
+    display: flex;
+}
+.div2 {
+    margin-left: 150px;
+    display: flex;
+    color: white;
+    margin-top: 25px;
+    gap: 50px;
+    font-size: 15px;
+    font-family:  "JetBrains Mono", monospace;
+    font-weight: 600;
+}
+.div3 {
+    width: 200px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: #CE2D2D;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    margin-top:6px;
+}
+.section {
+    margin-left: 250px;
+    margin-top: 150px;
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.p1 {
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #eae6e4;
+    margin-left: 240px;
+}
+.href {
+    color: #ffb19c;
+}
+.p2 {
+    color: #776a64;
+    margin-left: 240px;
+}
+.phase1 {
+    display: flex;
+    gap: 10px;
+    font-family: "JetBrains Mono", monospace;
+
+}
+.topic {
+    width: 130px;
+    height: 50px;
+    background-color: #ffc726;
+    color: black;
+    margin-left: 240px;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 10px solid color(#ffc726);
+}
